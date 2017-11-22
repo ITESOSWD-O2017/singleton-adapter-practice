@@ -1,0 +1,1 @@
+# singleton-adapter-practice
