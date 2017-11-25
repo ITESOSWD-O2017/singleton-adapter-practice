@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\Membership.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\Memberships\Gold.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\Memberships\Normal.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\Memberships\package-info.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\Memberships\Platinum.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\Memberships\Silver.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\NeoMembership.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\NeoMembershipAdapter.java">
+</file>
+<file name="C:\Users\riverac\OneDrive - HP\DS\singleton-adapter-practice\src\main\java\com\iteso\singleton\package-info.java">
+</file>
+</checkstyle>
