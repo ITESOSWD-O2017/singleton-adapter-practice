@@ -1,0 +1,4 @@
+com\iteso\singleton\adapter\PlatinumMembershipAdapterTest.class
+com\iteso\singleton\adapter\GoldMembershipAdapterTest.class
+com\iteso\singleton\adapter\BronzeMembershipAdapterTest.class
+com\iteso\singleton\adapter\SilverMembershipAdapterTest.class

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\Discount.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\lessons\package-info.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\lessons\Yoga.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\lessons\Zumba.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\Locker.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\Massage.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\package-info.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\Partner.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\Steam.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\benefits\TanningBed.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\Benefits.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\CoolMembership.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\CoolMembershipAdapter.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\Membership.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\memberships\Bronze.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\memberships\Gold.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\memberships\package-info.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\memberships\Platinum.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\memberships\Silver.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\MembershipStore.java">
+</file>
+<file name="C:\Users\alsahagu\Documents\ITESO\1. Otoño 2017\Disenio de Software\Repositorios\singleton-adapter-practice\src\main\java\com\iteso\singleton\adapter\package-info.java">
+</file>
+</checkstyle>

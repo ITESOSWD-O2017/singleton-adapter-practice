@@ -1,0 +1,3 @@
+com\iteso\singleton\adapter\Membership.class
+com\iteso\singleton\adapter\MembershipStore.class
+com\iteso\singleton\adapter\memberships\Platinum.class
