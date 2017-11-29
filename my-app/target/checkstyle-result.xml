@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\App.java">
+<error line="0" severity="error" message="El fichero no termina con un retorno de carro." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="0" severity="error" message="Falta el archivo package-info.java." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="3" column="8" severity="error" message="import no usado - com.mycompany.app.benefits.Boletos2x1." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="4" column="8" severity="error" message="import no usado - com.mycompany.app.benefits.ComboGratis." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="error" message="import no usado - com.mycompany.app.memberships.Black." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\Boletos2x1.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\ComboGratis.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\Cortesia3D.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\CortesiaNormal.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\CortesiaVIP.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\Nachos2x1.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\PalomitasGratis.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\benefits\PasePreferencial.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\Benefits.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\factories\BlackFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\factories\FanFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\factories\GoldFactory.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\factories\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\factories\PlataFactory.java">
+<error line="24" column="25" severity="error" message="&apos;=&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\Membership.java">
+<error line="15" column="33" severity="error" message="La variable &apos;uniqueInstance&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\memberships\Black.java">
+<error line="8" severity="error" message="La clase Black debería declararse final." source="com.puppycrawl.tools.checkstyle.checks.design.FinalClassCheck"/>
+<error line="19" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\memberships\Fan.java">
+<error line="18" column="43" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="19" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="19" column="11" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\memberships\Gold.java">
+<error line="18" column="43" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="19" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="19" column="11" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\memberships\package-info.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\memberships\Plata.java">
+<error line="18" column="43" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="19" severity="error" message="La construcción &apos;if&apos; debe usar &apos;{}&apos; (llaves)." source="com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck"/>
+<error line="19" column="11" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\MemberStore.java">
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\NetflixAdapter.java">
+<error line="3" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="3" column="47" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="7" column="23" severity="error" message="La variable &apos;netflix&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="13" column="27" severity="error" message="El parámetro n debería ser final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="13" column="47" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="16" severity="error" message="&apos;=&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="17" severity="error" message="&apos;=&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="20" column="5" severity="error" message="El método &apos;getDescription&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="32" column="5" severity="error" message="El método &apos;cost&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\NetflixMembership.java">
+<error line="3" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="4" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="6" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\netflixMemberships\Classic.java">
+<error line="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="5" column="50" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="10" column="5" severity="error" message="El método &apos;getMovies&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="18" column="5" severity="error" message="El método &apos;getDevices&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="26" column="5" severity="error" message="El método &apos;getPrice&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="27" column="16" severity="error" message="&apos;99.99&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\netflixMemberships\package-info.java">
+<error line="0" severity="error" message="El fichero no termina con un retorno de carro." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\netflixMemberships\Premium.java">
+<error line="0" severity="error" message="El fichero no termina con un retorno de carro." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="10" column="5" severity="error" message="El método &apos;getMovies&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="18" column="5" severity="error" message="El método &apos;getDevices&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="26" column="5" severity="error" message="El método &apos;getPrice&apos; no está diseñado para ser extendido - necesita ser abstracto, final o vacío." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="27" column="16" severity="error" message="&apos;140.50&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\inqui\OneDrive\Documentos\ITESO\5 Semestre\Diseño de Software\Repositorios\singleton-adapter-practice\my-app\src\main\java\com\mycompany\app\User.java">
+</file>
+</checkstyle>
