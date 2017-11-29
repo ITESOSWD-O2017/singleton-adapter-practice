@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="31" tokens="184">
+      <file line="20"
+            path="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\AmericaStore.java"/>
+      <file line="19"
+            path="C:\Users\Sergio Aceves\Desktop\DS\decorator-practice\src\main\java\factories\MxStore.java"/>
+      <codefragment><![CDATA[public class AmericaStore extends MembresiaLocal {
+    /**
+     *
+     * @param membresia This is a parameter
+     * @return ok
+     */
+    public final Membresia createMemFactory(final Membresia membresia) {
+        if (membresia.getClass() == MemBasic.class) {
+            Membresia temp = membresia;
+            temp = new CanalesRec(membresia);
+            temp = new CanalesRegulares(membresia);
+            return temp;
+        } else if (membresia.getClass() == MemKids.class) {
+            Membresia temp = membresia;
+            temp = new CanalesKids(membresia);
+            temp = new CanalesNaturales(membresia);
+            temp = new CanalesLive(membresia);
+            return temp;
+        } else if (membresia.getClass() == MemLive.class) {
+            Membresia temp = membresia;
+            temp = new CanalesKids(membresia);
+            temp = new CanalesLive(membresia);
+            return temp;
+        } else if (membresia.getClass() == MemPlatinum.class) {
+            Membresia temp = membresia;
+            temp = new CanalesKids(membresia);
+            temp = new CanalesNaturales(membresia);
+            temp = new CanalesLive(membresia);
+            temp = new CanalesHBO(membresia);
+            temp = new CanalesTeleExtra(membresia);
+            temp = new CanalesRec(membresia);]]></codefragment>
+   </duplication>
+</pmd-cpd>
