@@ -1,35 +1,64 @@
 package com.mycompany.app;
 
 /**
- * Clase padre de membresias.
+ * Clase singleton de membresias.
  */
 public abstract class Membresia {
 
     /**
-     * Descripcion de la membresia.
+     *Descripcion de membresia.
      */
-    private String description = "Membresía X";
+    private String description = "Membresia X";
 
     /**
-     * Getter membresia.
-     * @return String Descripcion de membresia.
+     *Estatus de la membresia.
      */
-    public String getDescription() {
-        return description;
+    private String status = "Inabilitada";
+
+    /**
+     * Getter descripcion.
+     * @return Descripcion.
+     */
+    public final String getDescription() {
+        return this.description;
     }
 
     /**
-     * Setter membresia.
-     * @param inDescription devuelve la membresia.
+     * Setter descripcion.
+     * @param inDescription
      */
-    public final void setDescription(final String inDescription) {
-        this.description = description;
+    public final void setDescripcion(final String inDescription) {
+        this.description = inDescription;
     }
 
     /**
-     * Costo de la membresia.
-     * @return double retorna el costo de la membresia.
+     *Getter status.
+     * @return Status.
      */
-    public abstract double cost();
+    public final String getStatus() {
+        return this.status;
+    }
+
+    /**
+     *Habilitar membresia.
+     */
+    public final void habilitarMembership() {
+        this.status = "Habilitada";
+    }
+
+    /**
+     *Deshabilitar membresia.
+     */
+    public final void deshabilitarMembership() {
+        this.status = "Deshabilitada";
+    }
+
+    /**
+     *Banear membresia.
+     */
+    public final void banearMembership() {
+        this.status = "Baneado";
+    }
+
 
 }
