@@ -24,8 +24,8 @@ public abstract class Membresia {
     }
 
     /**
-     * Setter descripcion.
-     * @param inDescription
+     * Setter descrpcion.
+     * @param inDescription descripcion.
      */
     public final void setDescripcion(final String inDescription) {
         this.description = inDescription;

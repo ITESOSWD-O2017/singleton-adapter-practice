@@ -5,7 +5,7 @@ import com.mycompany.app.Membresia;
 /**
  * Membresia HD.
  */
-public class MembresiaHD extends Membresia {
+public final class MembresiaHD extends Membresia {
 
     /**
      * Instancia unica.
