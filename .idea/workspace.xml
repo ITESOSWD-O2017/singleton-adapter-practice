@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="199180ea-eb3a-4b76-9a87-7671b2b57f3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Singleton/JackedMembershipAdapter.java" afterPath="$PROJECT_DIR$/src/main/java/com/Singleton/JackedMembershipAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Singleton/Membership.java" afterPath="$PROJECT_DIR$/src/main/java/com/Singleton/Membership.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Gold.java" afterPath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Gold.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Platinum.java" afterPath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Platinum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Regular.java" afterPath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Regular.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Silver.java" afterPath="$PROJECT_DIR$/src/main/java/com/Singleton/Memberships/Silver.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +60,8 @@
       <file leaf-file-name="Membership.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Singleton/Membership.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="726">
+              <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
               <folding>
                 <element signature="e#468#469#0" expanded="true" />
                 <element signature="e#516#517#0" expanded="true" />
@@ -441,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Singleton/Membership.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="726">
+          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding>
             <element signature="e#468#469#0" expanded="true" />
             <element signature="e#516#517#0" expanded="true" />

@@ -42,8 +42,8 @@ public abstract class Membership {
     }
 
     /**
-     *Cancelling membership.
-     * @return cancellation string.
+     *a.
+     * @return activate.
      */
     public final String activateMembership() {
         this.membershipStatus = "Active";
@@ -51,8 +51,8 @@ public abstract class Membership {
     }
 
     /**
-     *Cancelling membership.
-     * @return cancellation string.
+     *a.
+     * @return cancel.
      */
     public final String cancelMembership() {
         this.membershipStatus = "Cancelled";
