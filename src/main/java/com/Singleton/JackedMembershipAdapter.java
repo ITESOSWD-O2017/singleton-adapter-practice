@@ -30,7 +30,7 @@ public class JackedMembershipAdapter implements JackedMembership {
      * @return id.
      */
     public final String cancelID() {
-        return membership.sendMembership();
+        return membership.cancelMembership();
     }
 
     /**
@@ -38,7 +38,7 @@ public class JackedMembershipAdapter implements JackedMembership {
      * @return active.
      */
     public final String activateMembership() {
-        return membership.getMembership();
+        return membership.activateMembership();
     }
 
 }

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.11.2">
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Regular.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Regular.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Platinum.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Platinum.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/AccessToSteam.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/AccessToSteam.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/PersonalInstructor.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/PersonalInstructor.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/AccessToShowers.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/AccessToShowers.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/ProteinShake.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/ProteinShake.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/FreeParking.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/FreeParking.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/FreeUseOfTowels.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/FreeUseOfTowels.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/UseOfLocker.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/UseOfLocker.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/MonthlyMassage.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/MonthlyMassage.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Benefits/package-info.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Benefits/package-info.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Silver.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Silver.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/package-info.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/package-info.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/Gold.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/Gold.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Memberships/BenefitsMembership.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Memberships/BenefitsMembership.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/UniversalGym.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/UniversalGym.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/JackedMembership.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/JackedMembership.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/JackedMembershipAdapter.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/JackedMembershipAdapter.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/Membership.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/Membership.java">
 </file>
-<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/Singleton-adapter/src/main/java/com/Singleton/package-info.java">
+<file name="/Users/Carlos/Google Drive/ITESO/8 Semestre/Diseño de Software/Repositorios/singleton-adapter-practice/src/main/java/com/Singleton/package-info.java">
 </file>
 </checkstyle>

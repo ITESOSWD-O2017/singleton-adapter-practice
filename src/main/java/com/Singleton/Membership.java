@@ -6,18 +6,22 @@ package com.Singleton;
  */
 public abstract class Membership {
 
-    /**Property to be set.
+    /**user.
      */
-    private String membershipUser = "A user";
+    private String membershipUser = "User";
     /**
-     * Getting a membership.
+     *Membership status.
+     */
+    private String membershipStatus = "Active";
+    /**
+     * a.
      * @return membership.
      */
     public abstract String getMembership();
 
     /**
-     * Getting a membership.
-     * @param membership setting membership.
+     * a.
+     * @param membership membership.
      */
     public final void setMembership(final String membership) {
         this.membershipUser = membership;
@@ -28,6 +32,31 @@ public abstract class Membership {
      */
     public final String sendMembership() {
         return this.membershipUser;
+    }
+    /**
+     *a.
+     * @return status.
+     */
+    public final String getMembershipStatus() {
+        return this.membershipStatus;
+    }
+
+    /**
+     *Cancelling membership.
+     * @return cancellation string.
+     */
+    public final String activateMembership() {
+        this.membershipStatus = "Active";
+        return this.membershipUser + " has been activated";
+    }
+
+    /**
+     *Cancelling membership.
+     * @return cancellation string.
+     */
+    public final String cancelMembership() {
+        this.membershipStatus = "Cancelled";
+        return this.membershipUser + " has been cancelled";
     }
 
 }

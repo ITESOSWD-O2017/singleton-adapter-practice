@@ -4,16 +4,16 @@ import com.Singleton.Membership;
 /**
  * Platinum membership.
  */
-public class Platinum extends Membership {
+public final class Platinum extends Membership {
     /**
      * default constructor.
      */
-    public Platinum() {
+    private Platinum() {
         setMembership("Platinum membership");
     }
 
     @Override
-    public final String getMembership() {
+    public String getMembership() {
         return sendMembership();
     }
 

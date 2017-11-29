@@ -4,11 +4,11 @@ import com.Singleton.Membership;
 /**
  * Class Silver membership.
  */
-public class Silver extends Membership {
+public final class Silver extends Membership {
     /**
      * default constructor.
      */
-    public Silver() {
+    private Silver() {
         setMembership("Silver membership");
     }
 
@@ -16,7 +16,7 @@ public class Silver extends Membership {
      * a.
      * @return memberhsip.
      */
-    public final String getMembership() {
+    public String getMembership() {
         return sendMembership();
     }
     /**

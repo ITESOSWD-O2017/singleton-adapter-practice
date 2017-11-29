@@ -4,11 +4,11 @@ import com.Singleton.Membership;
 /**
  * Regular membership.
  */
-public class Regular extends Membership {
+public final class Regular extends Membership {
     /**
      * default constructor.
      */
-    public Regular() {
+    private Regular() {
         setMembership("Regular membership");
     }
 
@@ -16,7 +16,7 @@ public class Regular extends Membership {
      * a.
      * @return membership.
      */
-    public final String getMembership() {
+    public String getMembership() {
         return sendMembership();
     }
     /**
